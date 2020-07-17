@@ -1,0 +1,9 @@
+c:\users\jb\documents\visual studio 2015\Projects\ThreeTierLayer\ThreeTierLayer\bin\Debug\ThreeTierLayer.exe.config
+c:\users\jb\documents\visual studio 2015\Projects\ThreeTierLayer\ThreeTierLayer\bin\Debug\ThreeTierLayer.exe
+c:\users\jb\documents\visual studio 2015\Projects\ThreeTierLayer\ThreeTierLayer\bin\Debug\ThreeTierLayer.pdb
+c:\users\jb\documents\visual studio 2015\Projects\ThreeTierLayer\ThreeTierLayer\obj\Debug\ThreeTierLayer.csprojResolveAssemblyReference.cache
+c:\users\jb\documents\visual studio 2015\Projects\ThreeTierLayer\ThreeTierLayer\obj\Debug\ThreeTierLayer.PLL.Login.resources
+c:\users\jb\documents\visual studio 2015\Projects\ThreeTierLayer\ThreeTierLayer\obj\Debug\ThreeTierLayer.Properties.Resources.resources
+c:\users\jb\documents\visual studio 2015\Projects\ThreeTierLayer\ThreeTierLayer\obj\Debug\ThreeTierLayer.csproj.GenerateResource.Cache
+c:\users\jb\documents\visual studio 2015\Projects\ThreeTierLayer\ThreeTierLayer\obj\Debug\ThreeTierLayer.exe
+c:\users\jb\documents\visual studio 2015\Projects\ThreeTierLayer\ThreeTierLayer\obj\Debug\ThreeTierLayer.pdb
